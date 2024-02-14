@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 alias ls="ls --color=auto"
+alias l="ls -l"
 alias ll="ls -lah"
 
 alias d="dirs -v"
