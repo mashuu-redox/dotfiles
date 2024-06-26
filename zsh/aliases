@@ -1,7 +1,6 @@
-#!/usr/bin/env bash
-
 alias ls="ls --color=auto"
 alias l="ls -l"
-alias ll="ls -lah"
+alias ll="ls -lahF"
 
-alias d="dirs -v"
+alias tmux="tmux -2"
+
